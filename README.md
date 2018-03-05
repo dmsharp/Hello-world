@@ -1,2 +1,3 @@
 # Hello-world
-my get familiar with github to see what I can do thing
+This is "my get familiar with github to see what I can do thing."
+I'm not a programmer but I'm curious. I'm thinking about creating an app for my college students to help them learn the material better, faster, and with less work. I found out about Github as I was looking at an online course in Udacity. So that app. There are probably ones already out there. Publishers have them to accompany their books but they're costly. Books already go for $300+ and many students are crushed by their tuition costs.So, for fun, I thought I'd learn if it's possible to make something that works, is free, and is fun to make along the way.
